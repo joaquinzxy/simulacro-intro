@@ -1,1 +1,2 @@
- Lucas# simulacro-intro
+<<<<<<< HEAD
+ Lucas# simulacro-intro nuevo
